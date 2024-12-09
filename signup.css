@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+   
+}
+
+.login-container {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+    max-width: 900px;
+   
+}
+.txt1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.btn-secondary{
+  
+    width: 100%;
+}
+
+/* .btn-secondary:hover {
+  
+} */

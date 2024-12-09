@@ -1,0 +1,42 @@
+.logo1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.para1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.carousel-inner {
+    display: flex;
+    flex-direction: column;
+}
+.carousel-item {
+    display: flex;
+    justify-content: center;
+}
+.card {
+    margin: 10px;
+    flex: 1;
+    max-width: 18rem;
+}
+.carousel-item .row {
+    justify-content: center;
+}
+.carousel-item img {
+    height: 250px;
+    object-fit: cover;
+}
+
+
+body{
+    background-color: beige;
+}
+.navbar{
+    background-color: beige;
+}
